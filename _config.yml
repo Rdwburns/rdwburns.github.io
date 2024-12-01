@@ -11,7 +11,7 @@ description: AuDHD Marketeer from London, UK.<br />Business, Data and Software G
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: /images/me.png
 
-theme: midnight
+theme: jekyll-theme-midnight
 
 #
 # Flags below are optional
